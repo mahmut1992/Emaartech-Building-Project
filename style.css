@@ -1,0 +1,47 @@
+.w-100-height {
+  height: 90vh;
+  width: 100%;
+}
+.carousel-item {
+  min-height: 300px;
+}
+.carousel-caption {
+  text-align: left;
+  margin-bottom: 200px;
+  z-index: 2;
+}
+.carousel-caption h5 {
+  text-transform: uppercase;
+  font-size: 40px;
+}
+.carousel-inner::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+
+.popular {
+  margin-top: 100px;
+}
+.card-spe img {
+  height: 250px; /* Sabit bir yükseklik tanımlayın */
+  width: 100%; /* Genişliği kapsasın */
+  object-fit: cover; /* Resmi orantılı şekilde sığdırır */
+}
+.card-spe {
+  height: 100%; /* Kartların aynı yüksekliğe sahip olmasını sağlar */
+}
+.width-spe {
+  width: 156px;
+}
+
+@media (max-width: 1000px) {
+  .footer-top {
+    text-align: center;
+  }
+}
