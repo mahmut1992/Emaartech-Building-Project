@@ -1,20 +1,20 @@
-# 🏠Emaartech-Building-Project
+# 🏠Emaartech-Building-Website
 
-Bu repoda Html, Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmıştır.
+In this repo, a construction website was designed using Html, Css and Bootstrap.
 
-# 🚀Özellikler
+# 🚀Features
 
--Responsive Tasarım
+-Responsive Design
 
--Kullanıcı Dostu Arayüz
+-User-Friendly Interface
 
--Dinamik Navbar
+-Dynamic Navbar
 
--Carousel Yapısı
+-Carousel Structure
 
--Accordion Yapısı
+-Accordion Structure
 
-# 🛠️Kullanılan Teknolojiler
+# 🛠️Technologies Used
 
 -Html
 
@@ -24,12 +24,12 @@ Bu repoda Html, Css ve Bootstrap kullanılarak bir inşaat websitesi tasarlanmı
 
 -Bootstrap
 
-# Ekran Görüntüsü
+# Screenshot
 
 ![Emaartech](https://github.com/user-attachments/assets/5bd675f4-3643-4369-8538-40b36c840125)
 
-# 📨İletişim
+# 📨Contact
 
-Soru, görüş ve önerileriniz için iletişime geçiniz:fratsbht@icloud.com
+Please contact us for your questions, comments and suggestions.:fratsbht@icloud.com
 
 
